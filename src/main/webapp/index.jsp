@@ -37,7 +37,6 @@
             }
         }
         if(noCheckedBoxes) {
-            checkBoxes[0].checked = true
             alert("O preenchimento do campo habilidades técnicas é obrigatório");
         }
 
